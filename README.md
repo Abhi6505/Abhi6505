@@ -9,7 +9,6 @@
 
 ### 👨‍🎓 About Me
 
-- 🎓 I’m currently pursuing my **Master's in Computer Applications (MCA)**
 - 🌱 I’m learning **Android Development using Java**
 - 🧠 I regularly practice with **C++, C#, Python, Java, PHP, .NET Core**
 - 💻 I build **Web Apps, APIs, Android Apps, and Desktop Tools**
