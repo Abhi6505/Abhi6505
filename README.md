@@ -45,7 +45,7 @@
 ### 📫 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/abhi-modi-3741362a8//" target="_blank">
+  <a href="https://www.linkedin.com/in/abhi-modi-3741362a8/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:amodi2929@gmail.com" target="_blank">
@@ -58,3 +58,4 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Abhi6505&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
+
