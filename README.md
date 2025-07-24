@@ -42,14 +42,13 @@
 </p>
 
 ---
-
 ### 📫 Connect With Me
 
-<p>
-  <a href="https://www.linkedin.com/in/Abhi Modi/" target="_blank">
+<p align="center">
+  <a href="https://www.linkedin.com/in/abhimodi/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:amodi2929@gmail.com">
+  <a href="mailto:amodi2929@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
