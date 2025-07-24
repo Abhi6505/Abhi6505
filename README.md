@@ -1,19 +1,20 @@
 <h1 align="center">Hi 👋, I'm Abhi Modi</h1>
-<h3 align="center">💻 Passionate Developer | Android • Web • python</h3>
+<h3 align="center">💻 Passionate Developer | Android • Web • Python</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Programmer%20by%20Passion;Full-Stack%20Developer;Love%20Coding%20and%20Learning&center=true&width=440&height=45&pause=1000" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Programmer%20by%20Passion;Full-Stack%20Learner;Love%20Coding%20and%20Learning;Open%20to%20Opportunities&center=true&width=440&height=45&pause=1000" alt="Typing SVG" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍🎓 About Me
 
-- 🌱 I’m currently learning **Android Development using Java**  
-- 🧠 I regularly work with **C++, C#, Python, Java, PHP, .NET Core**  
-- 💻 I create **Web Apps, APIs, Android Apps, and Desktop Software**  
-- 📫 How to reach me: **22bmiit187@gmail.com**  
-- 💬 Ask me about anything related to **Programming, Logic Building, or Projects**
+- 🎓 I’m currently pursuing my **Master's in Computer Applications (MCA)**
+- 🌱 I’m learning **Android Development using Java**
+- 🧠 I regularly practice with **C++, C#, Python, Java, PHP, .NET Core**
+- 💻 I build **Web Apps, APIs, Android Apps, and Desktop Tools**
+- 💬 Ask me about anything related to **Logic Building, Projects, or Learning Paths**
+- 📫 Reach me at: **22bmiit187@gmail.com**
 
 ---
 
@@ -42,6 +43,7 @@
 </p>
 
 ---
+
 ### 📫 Connect With Me
 
 <p align="center">
@@ -58,4 +60,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Abhi6505&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
-
