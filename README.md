@@ -36,26 +36,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhi6505&show_icons=true&theme=radical" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhi6505&theme=radical" />
+  <img src="...github-readme-stats... />
 </p>
-
----
 
 ### 📫 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/your-linkedin-id/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abhi6505&label=Profile%20Views&color=0e75b6&style=flat" />
+  <a href="...">LinkedIn</a>
+  <a href="mailto:...">Gmail</a>
 </p>
