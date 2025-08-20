@@ -31,15 +31,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhi6505&show_icons=true&theme=radical" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhi6505&theme=radical" />
-</p>
 
 ---
 
@@ -52,9 +43,9 @@
   <a href="mailto:amodi2929@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-   <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <a href="https://www.hackerrank.com/profile/22bmiit187" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" />
+</a>
 </p>
 
 ---
