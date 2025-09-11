@@ -23,9 +23,10 @@ Currently, I’m also exploring the world of **Data Analysis** to strengthen my 
 ## 📊 GitHub Overview  
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Abhi6505&show_icons=true&theme=default&count_private=true&hide_border=true&token=YOUR_TOKEN_HERE" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi6505&layout=compact&theme=default&hide_border=true&token=YOUR_TOKEN_HERE" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Abhi6505&show_icons=true&theme=default&count_private=true&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi6505&layout=compact&theme=default&hide_border=true" />
 </p>
+
 
 
 ---
