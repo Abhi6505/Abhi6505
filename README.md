@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I'm Abhi Modi  
-### Software Developer | Android • Web • Desktop  
+### Software Developer | Android • Web • Desktop | Data Analysis Learner  
 
 </div>
 
@@ -10,13 +10,14 @@
 ## 👨‍💻 About Me  
 
 I’m a software developer with a strong foundation in **problem-solving, system design, and scalable application development**.  
-I love building reliable solutions across **Android, Web, and Desktop platforms**, and I’m always eager to learn and improve.  
+Currently, I’m also exploring the world of **Data Analysis** to strengthen my skills in working with data-driven applications.  
 
-- 🌱 Currently focusing on **Native Android Development (Java)**  
-- 💡 Strong in **Data Structures, Algorithms, and Logic Building**  
-- 🛠️ Experienced with **C++, C#, Java, Python, PHP, .NET Core**  
-- 💬 Happy to discuss **System Design, Architecture, and Developer Roadmaps**  
-- 📫 Reach me at **amodi2929@gmail.com**  
+- 🌱 Learning **Android Development (Java)** & **Data Analysis (Python, SQL, Excel)**  
+- 🧠 Practicing with **C++, C#, Python, Java, PHP, .NET Core**  
+- 📊 Exploring **Data Cleaning, Visualization, and Basic Statistics**  
+- 💻 I build **Web Apps, APIs, Android Apps, Desktop Tools, and Data Projects**  
+- 💬 Ask me about **Logic Building, Projects, Data Analysis, or Learning Paths**  
+- 📫 Reach me at: **22bmiit187@gmail.com**
 
 ---
 
@@ -29,8 +30,7 @@ I love building reliable solutions across **Android, Web, and Desktop platforms*
 
 ---
 
-
-### 🔧 Technologies & Tools
+### 🔧 Technologies & Tools  
 
 <details>
   <summary>Click to expand my full tech stack</summary>
@@ -53,6 +53,14 @@ I love building reliable solutions across **Android, Web, and Desktop platforms*
   <p align="left">
     <strong>Mobile:</strong><br/>
     <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  </p>
+  <p align="left">
+    <strong>Data Analysis:</strong><br/>
+    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+    <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white" />
   </p>
 </details>
 
@@ -78,5 +86,3 @@ I love building reliable solutions across **Android, Web, and Desktop platforms*
   <sub>Profile views</sub><br/>
   <img src="https://komarev.com/ghpvc/?username=Abhi6505&label=Visitors&color=grey&style=flat-square" />
 </p>
-
-
