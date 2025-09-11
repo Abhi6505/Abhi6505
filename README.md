@@ -29,19 +29,32 @@ I love building reliable solutions across **Android, Web, and Desktop platforms*
 
 ---
 
-## 🔧 Technical Skills  
 
-**Programming Languages**  
-- C++, C#, Java, Python, PHP, JavaScript  
+### 🔧 Technologies & Tools
 
-**Frameworks & Tools**  
-- .NET Core, HTML5, CSS3  
-- Android Development (Java)  
-
-**Core Strengths**  
-- Object-Oriented Programming (OOP)  
-- Data Structures & Algorithms  
-- System Design & Architecture  
+<details>
+  <summary>Click to expand my full tech stack</summary>
+  <br/>
+  <p align="left">
+    <strong>Languages:</strong><br/>
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  </p>
+  <p align="left">
+    <strong>Frontend & Backend:</strong><br/>
+    <img src="https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  </p>
+  <p align="left">
+    <strong>Mobile:</strong><br/>
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  </p>
+</details>
 
 ---
 
