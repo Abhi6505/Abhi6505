@@ -31,7 +31,7 @@ Currently, I’m also exploring the world of **Data Analysis** to strengthen my 
 
 ---
 
-### 🔧 Technologies & Tools  
+### 🔧 Technologies & Tools  (Knowledge about this Technologies: )
 
 <details>
   <summary>Click to expand my full tech stack</summary>
