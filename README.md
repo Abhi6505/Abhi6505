@@ -19,15 +19,6 @@ Currently, I’m also exploring the world of **Data Analysis** to strengthen my 
 - 💬 Ask me about **Logic Building, Projects, Data Analysis, or Learning Paths**  
 - 📫 Reach me at: **22bmiit187@gmail.com**
 
----
-## 📊 GitHub Overview  
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Abhi6505&show_icons=true&theme=default&count_private=true&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi6505&layout=compact&theme=default&hide_border=true" />
-</p>
-
-
 
 ---
 
