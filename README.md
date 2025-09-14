@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Abhi Modi  
+#  Hi, I'm Abhi Modi  
 ### Software Developer | Android • Web • Desktop | Data Analysis Learner  
 
 </div>
